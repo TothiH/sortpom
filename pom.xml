@@ -15,7 +15,6 @@
 <!--    <apache.tiles>3.0.5</apache.tiles>-->
   </properties>
 
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -25,7 +24,7 @@
     </dependency>
 
     <!--MySQL set start-->
-    <dependency>
+     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
       <version>5.1.34</version>
